@@ -1,0 +1,99 @@
+@import "./base.css";
+
+#app {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  /* padding: 2rem; */
+
+  /* font-weight: normal; */
+}
+
+p {
+  padding-bottom: 10px;
+  text-indent: 20px;
+}
+
+.fs {
+  font-size: 0.9em;
+}
+.fl {
+  font-size: 1.5em;
+}
+
+.s0 {background: #cfefd7; color: "black"}
+.s1 {background: #fadce2; color: "black"}
+.s2 {background: #cce7eb; color: "black"}
+.s3 {background: #fef9d6; color: "black"}
+
+.g0 {
+  background: linear-gradient(90deg, #cfefd7 0px, #ffffff00 150px);
+  border-radius: 10px;
+}
+.g1 {
+  background: linear-gradient(90deg, #fadce2 0px, #ffffff00 150px);
+  border-radius: 10px;
+}
+.g2 {
+  background: linear-gradient(90deg, #cce7eb 0px, #ffffff00 150px);
+  border-radius: 10px;
+}
+.g3 {
+  background: linear-gradient(90deg, #fefaca 0px, #ffffff00 150px);
+  border-radius: 10px;
+}
+
+.my-toolbar {
+  font-weight: bold;
+  /* background-color: #fffddc !important;
+   color: white !important; */
+} 
+
+span {
+  transition: background-color 0.15s linear;
+}
+
+.u0 {border-bottom: 2px solid #77de91;}
+.u1 {border-bottom: 2px solid #d7554c;}
+.u2 {border-bottom: 2px solid #7bbee7;}
+.u3 {border-bottom: 2px solid #fff481;}
+
+.h { background-color: #fff7ca; }
+
+.pp:hover > .book-par-id {
+  opacity: 1;
+}
+
+.book-par-id {
+  position: absolute;
+  left: -20px;
+  top: 0;
+  font-size: 12px;
+  opacity: 0;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  color: #ddd;
+}
+
+.qtext {
+  font-style: italic;
+}
+
+/* @media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+} */
+
+/* @media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+} */

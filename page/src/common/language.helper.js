@@ -13,6 +13,11 @@ export const LANGUAGES = {
         name: "Digorsky",
         icon: "🗻"
     },
+    'ykt': {
+        langCode: "ykt",
+        name: "Yakut",
+        icon: "💎"
+    },
     // 'en': {
     //     langCode: "en",
     //     name: "English",
@@ -96,7 +101,7 @@ export const LANGUAGES = {
     //     noSpaceBetweenSentences: true
     // },
 };
-export const DEFAULT_FROM = 'di';
+export const DEFAULT_FROM = 'ykt';
 export const DEFAULT_TO = 'ru';
 
 export const LanguageHelper = {

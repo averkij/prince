@@ -18,6 +18,11 @@ export const LANGUAGES = {
         name: "Yakut",
         icon: "💎"
     },
+    'ba': {
+        langCode: "ba",
+        name: "Bashkir",
+        icon: "🌹"
+    },
     // 'en': {
     //     langCode: "en",
     //     name: "English",

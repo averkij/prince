@@ -3,25 +3,35 @@ import {
 } from "@/common/helper";
 
 export const LANGUAGES = {
-    'ru': {
-        langCode: "ru",
-        name: "Russian",
-        icon: "⚽️"
+    'ba': {
+        langCode: "ba",
+        name: "Bashkir",
+        icon: "🌹"
     },
     'di': {
         langCode: "di",
         name: "Digorsky",
         icon: "🗻"
     },
+    'kom': {
+        langCode: "kom",
+        name: "Komi",
+        icon: "🐦"
+    },
+    'ru': {
+        langCode: "ru",
+        name: "Russian",
+        icon: "⚽️"
+    },
+    'tt': {
+        langCode: "tt",
+        name: "Tatar",
+        icon: "☕"
+    },
     'ykt': {
         langCode: "ykt",
         name: "Yakut",
         icon: "💎"
-    },
-    'ba': {
-        langCode: "ba",
-        name: "Bashkir",
-        icon: "🌹"
     },
     // 'en': {
     //     langCode: "en",

@@ -18,6 +18,11 @@ export const LANGUAGES = {
         name: "Komi",
         icon: "🐦"
     },
+    'mrh': {
+        langCode: "mrh",
+        name: "Mari",
+        icon: "🐻"
+    },
     'ru': {
         langCode: "ru",
         name: "Russian",

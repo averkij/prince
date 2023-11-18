@@ -33,6 +33,11 @@ export const LANGUAGES = {
         name: "Tatar",
         icon: "☕"
     },
+    'fr': {
+        langCode: "fr",
+        name: "French",
+        icon: "🥖"
+    },
     'ykt': {
         langCode: "ykt",
         name: "Yakut",

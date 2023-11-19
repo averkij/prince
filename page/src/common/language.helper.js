@@ -23,6 +23,11 @@ export const LANGUAGES = {
         name: "Mari",
         icon: "🐻"
     },
+    'mrj': {
+        langCode: "mrj",
+        name: "Hill Mari",
+        icon: "⛰️"
+    },
     'ru': {
         langCode: "ru",
         name: "Russian",

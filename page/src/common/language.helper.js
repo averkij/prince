@@ -13,6 +13,16 @@ export const LANGUAGES = {
         name: "Digorsky",
         icon: "🗻"
     },
+    'erz': {
+        langCode: "erz",
+        name: "Erzya",
+        icon: "🦊"
+    },
+    'fr': {
+        langCode: "fr",
+        name: "French",
+        icon: "🥖"
+    },
     'kom': {
         langCode: "kom",
         name: "Komi",
@@ -37,11 +47,6 @@ export const LANGUAGES = {
         langCode: "tt",
         name: "Tatar",
         icon: "☕"
-    },
-    'fr': {
-        langCode: "fr",
-        name: "French",
-        icon: "🥖"
     },
     'ykt': {
         langCode: "ykt",

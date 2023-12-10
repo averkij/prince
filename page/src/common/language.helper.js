@@ -8,6 +8,11 @@ export const LANGUAGES = {
         name: "Bashkir",
         icon: "🌹"
     },
+    'cv': {
+        langCode: "cv",
+        name: "Chuvash",
+        icon: "🌞"
+    },
     'di': {
         langCode: "di",
         name: "Digorsky",
@@ -22,6 +27,11 @@ export const LANGUAGES = {
         langCode: "fr",
         name: "French",
         icon: "🥖"
+    },
+    'balk': {
+        langCode: "balk",
+        name: "Karachay-Balkar",
+        icon: "🗻"
     },
     'kom': {
         langCode: "kom",

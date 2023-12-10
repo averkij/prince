@@ -94,7 +94,10 @@
 </template>
 
 <style scoped>
-#Frames,
+ul {
+  list-style-type: none;
+}
+/* #Frames,
 .Frame {
   list-style: none;
   list-style-type: none;
@@ -104,6 +107,7 @@
 }
 #Frames {
   width: 100%;
+  list-style-type: none;
 }
 .Frame {
   display: inline-block;
@@ -169,7 +173,7 @@
   border-color: #bbbab4 #c7c7bf #e5e4df #c7c7bf;
   box-shadow: 0 -1px 1px rgba(0, 0, 0, 0.1),
     0 1px 1px 1px rgba(255, 255, 255, 0.7);
-}
+} */
 </style>
 
 <script>

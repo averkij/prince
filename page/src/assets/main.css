@@ -75,6 +75,7 @@ span {
   text-align: left;
   display: inline-block;
   color: #ddd;
+  user-select: none
 }
 
 .qtext {

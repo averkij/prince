@@ -151,7 +151,7 @@ export const LANGUAGES = {
     //     noSpaceBetweenSentences: true
     // },
 };
-export const DEFAULT_FROM = 'ykt';
+export const DEFAULT_FROM = 'sah';
 export const DEFAULT_TO = 'ru';
 
 export const LanguageHelper = {

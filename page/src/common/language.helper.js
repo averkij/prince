@@ -43,6 +43,11 @@ export const LANGUAGES = {
         name: "Mari",
         icon: "🐻"
     },
+    'mdf': {
+        langCode: "mdf",
+        name: "Moksha",
+        icon: "🍀"
+    },
     'mrj': {
         langCode: "mrj",
         name: "Hill Mari",

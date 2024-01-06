@@ -63,7 +63,7 @@ export const LANGUAGES = {
         name: "Tatar",
         icon: "☕"
     },
-    'ykt': {
+    'sah': {
         langCode: "sah",
         name: "Yakut",
         icon: "💎"

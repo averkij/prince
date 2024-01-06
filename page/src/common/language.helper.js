@@ -18,8 +18,8 @@ export const LANGUAGES = {
         name: "Digorsky",
         icon: "🗻"
     },
-    'erz': {
-        langCode: "erz",
+    'myv': {
+        langCode: "myv",
         name: "Erzya",
         icon: "🦊"
     },
@@ -28,13 +28,13 @@ export const LANGUAGES = {
         name: "French",
         icon: "🥖"
     },
-    'balk': {
-        langCode: "balk",
+    'krc': {
+        langCode: "krc",
         name: "Karachay-Balkar",
         icon: "🗻"
     },
-    'kom': {
-        langCode: "kom",
+    'kv': {
+        langCode: "kv",
         name: "Komi",
         icon: "🐦"
     },
@@ -64,7 +64,7 @@ export const LANGUAGES = {
         icon: "☕"
     },
     'ykt': {
-        langCode: "ykt",
+        langCode: "sah",
         name: "Yakut",
         icon: "💎"
     },

@@ -3,6 +3,11 @@ import {
 } from "@/common/helper";
 
 export const LANGUAGES = {
+    'alt': {
+        langCode: "alt",
+        name: "Altai",
+        icon: "⛰️"
+    },
     'ba': {
         langCode: "ba",
         name: "Bashkir",

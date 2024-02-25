@@ -20,7 +20,7 @@ export const LANGUAGES = {
     },
     'di': {
         langCode: "di",
-        name: "Digorsky",
+        name: "Digoron",
         icon: "🗻"
     },
     'myv': {

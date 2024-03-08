@@ -13,6 +13,11 @@ export const LANGUAGES = {
         name: "Bashkir",
         icon: "🌹"
     },
+    // 'bua': {
+    //     langCode: "bua",
+    //     name: "Buryat",
+    //     icon: "🐎"
+    // },
     'cv': {
         langCode: "cv",
         name: "Chuvash",
@@ -57,6 +62,11 @@ export const LANGUAGES = {
         langCode: "mrj",
         name: "Hill Mari",
         icon: "⛰️"
+    },
+    'oaa': {
+        langCode: "oaa",
+        name: "Orok",
+        icon: "☄️"
     },
     'ru': {
         langCode: "ru",

@@ -53,6 +53,11 @@ export const LANGUAGES = {
         name: "Komi",
         icon: "🐦"
     },
+    'ugh': {
+        langCode: "ugh",
+        name: "Kubachi",
+        icon: "🌄"
+    },
     'mrh': {
         langCode: "mrh",
         name: "Mari",

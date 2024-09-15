@@ -93,6 +93,11 @@ export const LANGUAGES = {
         name: "Yakut",
         icon: "💎"
     },
+    'udm': {
+        langCode: "udm",
+        name: "Udmurt",
+        icon: "💎"
+    },
     // 'en': {
     //     langCode: "en",
     //     name: "English",

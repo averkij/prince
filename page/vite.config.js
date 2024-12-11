@@ -10,7 +10,8 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/prince/',
+  base: '/',          //for custom domain (prince.lingtrain.ru/)
+  //base: '/prince/',   //for GitHub
   plugins: [vue()],
   resolve: {
     alias: {

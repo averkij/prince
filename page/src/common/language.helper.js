@@ -38,6 +38,11 @@ export const LANGUAGES = {
         name: "French",
         icon: "🥖"
     },
+    'kk': {
+        langCode: "kk",
+        name: "Kazakh",
+        icon: "🐎"
+    },
     'kjh': {
         langCode: "kjh",
         name: "Khakas",
